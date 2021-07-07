@@ -1,7 +1,6 @@
-package teste
+package one.digitalinnovation.diobank.teste
 
 import one.digitalinnovation.diobank.ClienteTipo
-import javax.management.Query.value
 
 fun main(){
     ClienteTipo.values().forEach{elemento ->

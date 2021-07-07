@@ -1,4 +1,4 @@
-package teste
+package one.digitalinnovation.diobank.teste
 
 import one.digitalinnovation.diobank.Banco
 
