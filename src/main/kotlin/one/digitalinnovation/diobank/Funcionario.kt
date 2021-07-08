@@ -2,7 +2,7 @@ package one.digitalinnovation.diobank
 
 import java.math.BigDecimal
 
-class Funcionario(
+abstract class Funcionario(
     nome: String,
     cpf: String,
     val salario: BigDecimal
